@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tree/static/css/main.917cc682.css",
+    "main.js": "/tree/static/js/main.56acd7f5.js",
+    "static/media/video.mp4": "/tree/static/media/video.860997015c5646e51778.mp4",
+    "static/media/mask.jpg": "/tree/static/media/mask.d477c8374d625a889d70.jpg",
+    "index.html": "/tree/index.html",
+    "main.917cc682.css.map": "/tree/static/css/main.917cc682.css.map",
+    "main.56acd7f5.js.map": "/tree/static/js/main.56acd7f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.917cc682.css",
+    "static/js/main.56acd7f5.js"
+  ]
+}
